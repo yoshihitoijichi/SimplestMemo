@@ -1,1 +1,1 @@
-# SimplestMemo
+# SimpletMemo
